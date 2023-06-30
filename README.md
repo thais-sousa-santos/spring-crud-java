@@ -8,10 +8,8 @@ Este projeto foi iniciado com a intenção de treinar como aplicar um CRUD bási
 ## Referência
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-- [Live Coding: CRUD com Java Spring - Aprendendo na prática](https://www.youtube.com/watch?v=tP6wtEaCnSI&t=4569s)
+ - [Live Coding: CRUD com Java Spring - Aprendendo na prática](https://www.youtube.com/watch?v=tP6wtEaCnSI&t=4569s)
 
 
 ## Documentação da API
